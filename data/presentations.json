@@ -1,0 +1,164 @@
+[
+  {
+    "id": "emmanuel",
+    "name": "Emmanuel Durowoju",
+    "place_of_birth": "Lagos, Nigeria",
+    "presentation_title": "Beyond Boundaries: The Power of Connecting What We Know",
+    "tags": [
+      "AIandEngineering",
+      "BeyondBoundaries",
+      "Innovation",
+      "GoalGetter",
+      "LifelongLearning"
+    ],
+    "outline": [
+      "Opening: Setting the Stage",
+      "My Foundation: Mechanical Engineering",
+      "The Turning Point: Discovering Data and AI",
+      "Bridging the Two Worlds",
+      "Lessons Learned",
+      "The Vision: Shaping the Future",
+      "Call to Action"
+    ],
+    "intro_paragraph": "Growth begins when we step beyond what we already know. Emmanuel’s journey spans Mechanical Engineering and Artificial Intelligence, showing how connecting disciplines unlocks innovation and personal growth.",
+    "speaker_intro": "Emmanuel is currently pursuing his master’s in data science with a concentration in AI, after earning a master’s degree in mechanical engineering. He describes himself as a goal-getter who bridges traditional engineering and AI to solve real-world problems.",
+    "key_message": "When we connect what we know with what we are willing to learn, we go beyond boundaries—and that’s where transformation begins."
+  },
+  {
+    "id": "sahil",
+    "name": "Sahil Sandhu",
+    "place_of_birth": "Punjab, India",
+    "presentation_title": "Believe, Try, and Achieve",
+    "tags": [
+      "Motivation",
+      "Perseverance",
+      "HardWork",
+      "NeverGiveUp",
+      "PersonalGrowth"
+    ],
+    "outline": [
+      "Introduction",
+      "Early Struggles",
+      "Lessons Learned",
+      "Achievements and Goals",
+      "Dreams and Vision"
+    ],
+    "intro_paragraph": "Sahil’s story is about believing in yourself, trying again and again, and eventually achieving what once felt impossible.",
+    "speaker_intro": "Born in India and now living in New York, Sahil once struggled with math and wanted to give up. Instead, he chose hard work and patience, eventually becoming the first child in his family to pursue higher education abroad. He now dreams of improving India’s education system and creating more creative, enjoyable learning experiences.",
+    "key_message": "No matter how hard something looks, there is always a way to solve it—as long as you keep trying and never lose hope."
+  },
+  {
+    "id": "manoj",
+    "name": "Manoj Maguluri",
+    "place_of_birth": "India",
+    "presentation_title": "Courage, Career Change, and Personal Growth",
+    "tags": [
+      "CareerTransformation",
+      "Courage",
+      "Reskilling",
+      "PersonalGrowth",
+      "ITJourney"
+    ],
+    "outline": [
+      "The Turning Point",
+      "Career Transition from Mechanical to IT",
+      "Growth in IT",
+      "Future Dream of a Food Business",
+      "Key Message"
+    ],
+    "intro_paragraph": "Manoj’s journey is about the courage to leave stability, reskill from mechanical engineering into IT, and continue dreaming beyond a single career path.",
+    "speaker_intro": "Manoj began his professional journey as a mechanical engineer in production and quality. In 2018, driven by curiosity and the desire to innovate, he shifted into IT, learned databases and IBM tools, and became a database administrator. Alongside his tech growth, he dreams of starting his own food business to blend passion and ambition.",
+    "key_message": "It’s not where you start, but the courage to change that leads to success."
+  },
+  {
+    "id": "abdullah",
+    "name": "Abdullah Siraj",
+    "place_of_birth": "Hyderabad, India",
+    "presentation_title": "How Building Stuff Teaches You New Things",
+    "tags": [
+      "ComputerScience",
+      "SoftwareEngineering",
+      "CuriousMind",
+      "LifelongLearner",
+      "Builder"
+    ],
+    "outline": [
+      "Introduction",
+      "Why Building Matters",
+      "The Mindset of a Builder",
+      "Conclusion"
+    ],
+    "intro_paragraph": "Abdullah believes that the best way to learn is to build—taking things apart, experimenting, and creating new solutions.",
+    "speaker_intro": "Abdullah is pursuing a master’s in computer information systems with a concentration in AI. With a background in Computer Science, he’s driven by curiosity, loves building things, and wants to design smarter systems. A coffee-loving night owl, he sees building as the path to learning.",
+    "key_message": "When you build things, you don’t just create projects—you create new versions of yourself as a learner and problem-solver."
+  },
+  {
+    "id": "karthik",
+    "name": "Karthik Kallu",
+    "place_of_birth": "Hyderabad, India",
+    "presentation_title": "A Story of Resilience and Growth",
+    "tags": [
+      "Resilience",
+      "GlobalJourney",
+      "Adaptability",
+      "CareerDevelopment",
+      "Courage"
+    ],
+    "outline": [
+      "Introduction",
+      "Early Life and Education in India",
+      "Academic and Professional Growth in the UK",
+      "Challenges and Turning Point",
+      "New Beginnings in the US",
+      "Lessons from the Journey",
+      "Conclusion"
+    ],
+    "intro_paragraph": "Karthik’s journey moves across India, the UK, and the US, highlighting resilience, adaptability, and the courage to restart when life demands it.",
+    "speaker_intro": "Karthik earned a Bachelor’s degree in Computer Science in India, completed a Master’s in Business Management in the UK, and worked as a Java developer for three years. After feeling unsafe and uncertain about his future there, he made the hard decision to leave and start over in the United States, where he is now pursuing another master’s degree.",
+    "key_message": "Growth begins when we step out of our comfort zone and trust ourselves enough to start again."
+  },
+  {
+    "id": "mohammad",
+    "name": "Mohammad Affan",
+    "place_of_birth": "Hyderabad, India",
+    "presentation_title": "Life Is Like a Two-Wheeler: You Move Only When You Push",
+    "tags": [
+      "Motivation",
+      "AI",
+      "AgenticAI",
+      "HealthcareInnovation",
+      "Persistence"
+    ],
+    "outline": [
+      "Life as a Two-Wheeler Metaphor",
+      "Consistency and Persistence",
+      "Future of Agentic AI",
+      "Vision for Affordable Healthcare"
+    ],
+    "intro_paragraph": "Mohammad uses the metaphor of a two-wheeler to show that life only moves forward when we keep pushing, no matter the obstacles.",
+    "speaker_intro": "Mohammad is passionate about AI and wants to become an AI engineer focused on Agentic AI—systems that can think and act with more independence. His dream is to make healthcare in India more affordable and accessible.",
+    "key_message": "Progress happens when we push forward, even when it’s hard—just like riding a scooter that only moves when you keep going."
+  },
+  {
+    "id": "mansoor",
+    "name": "Mansoor Ahmed",
+    "place_of_birth": "Hyderabad, India",
+    "presentation_title": "How Building Stuff Teaches You New Things",
+    "tags": [
+      "ComputerScience",
+      "Curiosity",
+      "HardWork",
+      "Purpose",
+      "SoftwareEngineering"
+    ],
+    "outline": [
+      "Introduction",
+      "Why Building Matters",
+      "The Mindset of a Builder",
+      "Conclusion"
+    ],
+    "intro_paragraph": "Mansoor’s story focuses on how building things, guided by strong values and inspiration from his father, teaches discipline, creativity, and purpose.",
+    "speaker_intro": "Mansoor draws deep inspiration from his father’s example of hard work and consistency. He aspires to become a software engineer and build meaningful solutions that make a positive difference in people’s lives.",
+    "key_message": "Building with purpose—shaped by values and persistence—helps you grow into the person you want to be."
+  }
+]
