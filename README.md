@@ -104,5 +104,18 @@ git clone https://github.com/Durowoju/My-Second-Artifact-Chatbox.git
 cd My-Second-Artifact-Chatbox
 python src/chatbot.py
 ```
+## 🧱 System Workflow
+
+```mermaid
+graph TD
+    A[Student TED-style scripts<br/>(Word document)] --> B[Data Cleaning & Structuring]
+    B --> C[presentations.json<br/>(Structured JSON dataset)]
+    C --> D[Python Chatbot Logic<br/>(src/chatbot.py)]
+    D --> E[Console Menu]
+    E --> F[User selects option<br/>(speaker, theme, random)]
+    F --> G[Retrieve matching record<br/>from JSON]
+    G --> H[Formatted response<br/>(summary, details, motivation)]
+```
+
 
 You’ll see a menu where you can explore speakers, themes, and motivational summaries driven by real student stories.
