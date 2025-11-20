@@ -106,14 +106,16 @@ python src/chatbot.py
 ```
 ## 🧱 System Workflow
 
+## 🧩 System Workflow
+
 ```mermaid
-graph TD
-    A[Student TED-style scripts<br/>(Word document)] --> B[Data Cleaning & Structuring]
-    B --> C[presentations.json<br/>(Structured JSON dataset)]
-    C --> D[Python Chatbot Logic<br/>(src/chatbot.py)]
+flowchart TD
+    A[Student TED-style scripts (Word document)] --> B[Data Cleaning & Structuring]
+    B --> C[presentations.json (Structured JSON dataset)]
+    C --> D[Python Chatbot Logic (src/chatbot.py)]
     D --> E[Console Menu]
-    E --> F[User selects option<br/>(speaker, theme, random)]
-    F --> G[Retrieve matching record<br/>from JSON]
+    E --> F{User selects option<br/>(speaker, theme, random)}
+    F --> G[Retrieve matching record from JSON]
     G --> H[Formatted response<br/>(summary, details, motivation)]
 ```
 
